@@ -1,13 +1,22 @@
+FOLDER PROVIDED IN THIS REPO:
+1.MODELS
+2.genres
+
+
 #DATA SET
 GTZAN (DATASET FROM  KAGGLE)
-THE DATASET IS PROVIDED IN THE GITHUB REPO
+THE DATASET IS PROVIDED IN THE GITHUB REPO under fOLDER NAME "genres"
 
 ~COlab link: https://colab.research.google.com/drive/1b5MfK2sr1vjeB4eol2qxCAxHoAB7WyHf#scrollTo=UzRbrzMplXI1&forceEdit=true&sandboxMode=true 
 
 ~THE COLAB LINK THAT PROVIDED IN THE REPORT IS IN PLAYGROUND MODE IF YOU NEED TO DO ANY MODIFICATION YOU WOULD LIKE
 TO SAVE A COPY ON YOU DRIVE FIRST THE PROCEED.
 
-~Make you mount to drive before start installing the repo as error will be occur if the folder Named "Models" does not found in the google drive 
+~Every process from data preprocessing to model analysis is included in the colab link
+
+~Makesure you mount to drive before start installing the repo as error will be occur if the folder Named "Models" does not found in the google drive 
 or not in the right location.
 
-~Team 
+
+
+
